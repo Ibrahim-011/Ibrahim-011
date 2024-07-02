@@ -1,14 +1,14 @@
 # Ibrahim-Chaudhry
 <h1 align="center">Hi 👋, I'm Ibrahim Chaudhry</h1>
-<h3 align="center">Python developer</h3>
+<h3 align="center">Python & AI developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-011&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-011" /> </p>
 
-- 🔭 I’m currently student at **Uet Peshawar Pakistan**
+- 🔭 I have complete my Graduation in **Computer System Engineering**
 
-- 🌱 I’m currently Studying **Computer System Engineering**
+- 🌱 From  **Uet Peshawar Pakistan**
 
-- 💬 Ask me about **Python & Data Science**
+- 💬 Ask me about **Python & AI Developer**
 
 - 📫 How to reach me **ibrahimchaudhry109@gmail.com**
 
